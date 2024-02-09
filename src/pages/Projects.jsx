@@ -11,7 +11,7 @@ const Projects = () => {
       </h1>
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita odio suscipit perspiciatis corporis nostrum nesciunt libero fugiat aliquam blanditiis? Eaque autem libero asperiores voluptatem commodi maxime, hic quia obcaecati itaque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ducimus assumenda quidem aperiam asperiores ut ad adipisci magnam soluta consequatur voluptas placeat saepe nam dolor temporibus debitis, architecto repudiandae. Sit!
+        I immerse myself in personal projects aimed at honing my expertise and expanding my portfolio. These projects serve as practical applications of the concepts I've learned, allowing me to showcase my abilities and creativity to potential employers.
         </p>
       </div>
 
